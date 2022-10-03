@@ -1,0 +1,38 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: rgb(243, 228, 17);
+}
+body {
+  background-image: url("back.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: antiquewhite;
+  line-height: 180%;
+  background-repeat: inherit;
+}
+
+.heading {
+  margin-top: 15%;
+  text-align: center;
+  color: black;
+}
+
+.image {
+  align-self: center;
+  vertical-align: middle;
+  margin-bottom: 5%;
+}
+
+.avatar {
+  border-color: black;
+  border: width 10cm;
+  border-radius: 50%;
+  border-style: solid;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}

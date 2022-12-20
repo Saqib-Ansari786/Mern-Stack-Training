@@ -1,3 +1,0 @@
-In config folder in config.env:
-				DataBase name  
-				Port name

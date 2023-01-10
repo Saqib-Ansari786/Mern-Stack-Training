@@ -1,0 +1,15 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "its weather project in which we use weather api to make some weather of different countries",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saqib",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
